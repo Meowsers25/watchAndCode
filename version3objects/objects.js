@@ -16,3 +16,4 @@ var todoList = {
     this.displayTodos();
     }
   };
+todoList.changeTodo(0, 'item 4');
